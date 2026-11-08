@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="operation-no rollback/operation-no rollback.vcxproj" Id="b6449af2-81ba-4764-ba4d-53bf48197914" />
+</Solution>
